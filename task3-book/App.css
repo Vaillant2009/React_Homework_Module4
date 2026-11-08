@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef2f7;
+}
+.container {
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 15px;
+  text-align: center;
+}
+h1 { color: #263b5e; }
+h2 { color: #344d70; margin-top: 30px; }
+p { font-size: 17px; line-height: 1.6; }
+.cover {
+  width: 200px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.review {
+  background: #f1f4f8;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 10px;
+  text-align: left;
+}
+.review h3 { color: #263b5e; }
